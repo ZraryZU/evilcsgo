@@ -1,0 +1,7 @@
+path: E:\yolo\labelme2yolo
+train: train/images
+val: valid/images
+nc: 2
+names:
+- CT
+- T
