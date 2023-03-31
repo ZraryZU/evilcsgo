@@ -21,13 +21,22 @@ git clone https://github.com/ZraryZU/evilcsgo.git  # clone
 ~~~
 pip install -r requirements.txt  # install
 ~~~
-#### 2. Run
+#### 2. Install LgHub
+download in the site below
+
+link：
+
+https://pan.baidu.com/s/18fpJqKNXFYfLLO2yhLuYQg?pwd=hcsa 
+
+pwd：hcsa
+
+#### 3. Run
 
 Make sure the game has started before this step.
 ~~~
 python csgoAutoAim.py
 ~~~
-#### 3. Key Usage
+#### 4. Key Usage
 
 |  KEY  | USAGE                                                                                                   |
 |:-----:|:--------------------------------------------------------------------------------------------------------|
@@ -40,7 +49,7 @@ python csgoAutoAim.py
 | SHIFT | Press and hold this key to turn on automatic aiming, and release this key to turn off automatic aiming. |
 |  END  | Turn off this porgram.                                                                                  |
 
-#### 4. If you don't want to build an environment, you can download the installation package through the following link.
+#### 5. If you don't want to build an environment, you can download the installation package through the following link.
 
 link：
 
